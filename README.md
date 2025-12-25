@@ -6,7 +6,7 @@
   <a href="https://victorheras.me">
     <img src="https://img.shields.io/badge/Portfolio-victorheras.me-7025f7?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/victor-manuel-heras-durillo/">
+  <a href="https://www.linkedin.com/in/vmheras">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:contact@victorheras.me">
