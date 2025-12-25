@@ -53,8 +53,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IrrealV&show_icons=true&theme=transparent&hide_border=true&title_color=7025f7&text_color=9f9f9f&icon_color=7025f7" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrrealV&layout=compact&theme=transparent&hide_border=true&title_color=7025f7&text_color=9f9f9f" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irrealv&show_icons=true&theme=transparent&hide_border=true&title_color=7025f7&text_color=9f9f9f&icon_color=7025f7" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irrealv&layout=compact&theme=transparent&hide_border=true&title_color=7025f7&text_color=9f9f9f" height="150" alt="languages graph" />
 </div>
 
 ---
