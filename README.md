@@ -50,17 +50,7 @@
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=IrrealV&theme=git_lab&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
-</div>
-
-<br/>
-
-### 📊 Activity
+### 📊 Github Activity
 
 <div align="center">
   <a href="https://git.io/streak-stats">
