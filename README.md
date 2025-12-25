@@ -50,11 +50,22 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irrealv&show_icons=true&theme=transparent&hide_border=true&title_color=7025f7&text_color=9f9f9f&icon_color=7025f7" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irrealv&layout=compact&theme=transparent&hide_border=true&title_color=7025f7&text_color=9f9f9f" height="150" alt="languages graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=IrrealV&theme=git_lab&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
+</div>
+
+<br/>
+
+### 📊 Activity
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IrrealV&theme=dark&background=00000000&fire=E0234E&ring=7025f7&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
