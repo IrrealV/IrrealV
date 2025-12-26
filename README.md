@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IrrealV&theme=dark&background=00000000&fire=E0234E&ring=7025f7&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=irrealv&theme=dark&background=00000000&fire=E0234E&ring=7025f7&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
